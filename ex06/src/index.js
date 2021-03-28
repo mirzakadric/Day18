@@ -8,7 +8,8 @@ let rockStar = new Map([
 ]);
 
 let newRock = new Map([
-    [...rockStar.keys("a")]
+    [...rockStar.keys("a")],
+    [...rockStar.keys("b")]
 ]);
 
 console.log(newRock);

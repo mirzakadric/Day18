@@ -14,4 +14,4 @@ console.log(unionSet);
 console.log(intersectionSet);
 console.log(differenceSet);
 // Only change code above this line
-module.exports = {unionSet, intersectionSet, differenceSet};
+module.exports = { unionSet, intersectionSet, differenceSet };
